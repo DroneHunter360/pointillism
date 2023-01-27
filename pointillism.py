@@ -1,6 +1,3 @@
-# Name: Steven Hua
-# Student ID: 101224771
-
 import pygame
 import sys
 import random
